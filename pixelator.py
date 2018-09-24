@@ -3,7 +3,7 @@ Labo 1 - Pixelator
 Run through all the LED's with random colour and repeat
 Use "easing function" to manipulate the speed
 """
-import SenseHat from sense_hat
+from sense_hat import SenseHat
 import time
 import random
 
